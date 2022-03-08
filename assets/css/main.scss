@@ -5,7 +5,7 @@
 @charset "utf-8";
 .icon-black {
     color: black !important;
-  }
+  };
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials

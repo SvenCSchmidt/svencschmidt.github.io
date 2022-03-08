@@ -13,13 +13,18 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: sorry, could not resist IT
+title: scnr.IT
+title_separator: "|"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   my private log about my biggest weakness
 twitter_username: opendev
 github_username: svencschmidt
 minimal_mistakes_skin: default
+url: "https://svencschmidt.github.io"
+logo: "/assets/images/scnr.IT-logo.png"
+breadcrumbs: true  # disabled by default
+date_format: "%B %-d, %Y"
 search: true
 
 # Build settings
@@ -64,26 +69,32 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://sven.schmidt.is.it"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/opendev"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/svencschmidt"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/opendevfits"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://chaos.social/@opendev"
+    - label: "TechNet"
+      icon: "fab fa-fw fa-windows"
+      url: "https://social.technet.microsoft.com/profile/svencschmidt/"
 
 footer:
   links:
-    - label: "Twitter"
+    - label: ""
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/opendev"
-    - label: "GitHub"
+    - label: ""
       icon: "fab fa-fw fa-github"
       url: "https://github.com/svencschmidt"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/opendevfits"
+    - label: ""
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://chaos.social/@opendev"
+    - label: ""
+      icon: "fab fa-fw fa-windows"
+      url: "https://social.technet.microsoft.com/profile/svencschmidt/"
 
 defaults:
   # _posts
@@ -91,6 +102,7 @@ defaults:
       path: ""
       type: posts
     values:
+      show_date: true
       layout: single
       author_profile: true
       read_time: true

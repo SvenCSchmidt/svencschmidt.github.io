@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on scnr.IT</title>
-        <link>https://svencschmidt.github.com/categories/</link>
+        <link>https://www.scnr.it/categories/</link>
         <description>Recent content in Categories on scnr.IT</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>de-DE</language><atom:link href="https://svencschmidt.github.com/categories/index.xml" rel="self" type="application/rss+xml" />
+        <language>de-DE</language><atom:link href="https://www.scnr.it/categories/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>

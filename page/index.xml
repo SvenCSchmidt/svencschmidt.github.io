@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on scnr.IT</title>
-        <link>https://svencschmidt.github.com/page/</link>
+        <link>https://www.scnr.it/page/</link>
         <description>Recent content in Pages on scnr.IT</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>de-DE</language>
-        <lastBuildDate>Wed, 15 Feb 2023 12:03:24 +0100</lastBuildDate><atom:link href="https://svencschmidt.github.com/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 15 Feb 2023 12:03:24 +0100</lastBuildDate><atom:link href="https://www.scnr.it/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>impressum</title>
-        <link>https://svencschmidt.github.com/impressum/</link>
+        <link>https://www.scnr.it/impressum/</link>
         <pubDate>Wed, 15 Feb 2023 12:03:24 +0100</pubDate>
         
-        <guid>https://svencschmidt.github.com/impressum/</guid>
+        <guid>https://www.scnr.it/impressum/</guid>
         <description>&lt;h1 id=&#34;rechtliche-angaben&#34;&gt;Rechtliche Angaben&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Angaben gemäß § 5 TMG und verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Sven Schmidt&lt;br&gt;
@@ -51,10 +51,10 @@ GitHub hat Compliance-Maßnahmen für internationale Datenübermittlungen umgese
         </item>
         <item>
         <title>about</title>
-        <link>https://svencschmidt.github.com/about/</link>
+        <link>https://www.scnr.it/about/</link>
         <pubDate>Wed, 15 Feb 2023 12:03:18 +0100</pubDate>
         
-        <guid>https://svencschmidt.github.com/about/</guid>
+        <guid>https://www.scnr.it/about/</guid>
         <description>&lt;p&gt;Es tut mir wirklich leid, aber ich kann einfach nicht anders. Ich bin versessen nach IT und dies hier ist mein kleines Log über die Tücken dieser Hassliebe. Eine Art therapeutisches Tagebuch zur Selbsthilfe.&lt;/p&gt;
 &lt;p&gt;Seit mehr als 30 Jahren hänge ich nun an dem Thema und komme nicht davon los. Schlussendlich ist das nicht schlimm, war für mich so immer klar, wie meine spätere Berufswahl ausfallen wird. Dennoch kennt jeder, der in der IT arbeitet das Problem; manchmal muss man auch den Willen haben zu leiden. Und damit auch andere an meinem Leiden teilhaben  oder es ggf. auch mal lindern können, habe ich hier diese kleine Seite ins Leben gerufen.
 In jungen Jahren beschäftigte ich mich nach Amiga und DOS lange Zeit mit Windows Betriebssystemen. Zeitgleich zu meiner Ausbildung warf ich einen Blick über den Tellerrand und arbeitete die nächsten Jahre vollständig mit Debian Linux. Und auch wenn es mich inzwischen beruflich thematisch wieder zu den Microsoft Infrastruktur Diensten geführt hat, ist Linux dennoch weiterhin sozusagen mein steter Begleiter.&lt;/p&gt;
@@ -63,18 +63,18 @@ In jungen Jahren beschäftigte ich mich nach Amiga und DOS lange Zeit mit Window
         </item>
         <item>
         <title>archiv</title>
-        <link>https://svencschmidt.github.com/archiv/</link>
+        <link>https://www.scnr.it/archiv/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://svencschmidt.github.com/archiv/</guid>
+        <guid>https://www.scnr.it/archiv/</guid>
         <description></description>
         </item>
         <item>
         <title>suche</title>
-        <link>https://svencschmidt.github.com/suche/</link>
+        <link>https://www.scnr.it/suche/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://svencschmidt.github.com/suche/</guid>
+        <guid>https://www.scnr.it/suche/</guid>
         <description></description>
         </item>
         

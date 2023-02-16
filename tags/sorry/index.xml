@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>sorry on scnr.IT</title>
-        <link>https://svencschmidt.github.com/tags/sorry/</link>
+        <link>https://www.scnr.it/tags/sorry/</link>
         <description>Recent content in sorry on scnr.IT</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>de-DE</language>
-        <lastBuildDate>Wed, 15 Feb 2023 11:37:50 +0100</lastBuildDate><atom:link href="https://svencschmidt.github.com/tags/sorry/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 15 Feb 2023 11:37:50 +0100</lastBuildDate><atom:link href="https://www.scnr.it/tags/sorry/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>reboot remastered</title>
-        <link>https://svencschmidt.github.com/blog/reboot-remastered/</link>
+        <link>https://www.scnr.it/blog/reboot-remastered/</link>
         <pubDate>Wed, 15 Feb 2023 11:37:50 +0100</pubDate>
         
-        <guid>https://svencschmidt.github.com/blog/reboot-remastered/</guid>
+        <guid>https://www.scnr.it/blog/reboot-remastered/</guid>
         <description>&lt;p&gt;&amp;ldquo;Jeder Boot tut gut&amp;rdquo; - das ist eine Redewendung aus der IT, die ich auch hier mal (wieder) anwende. Denn manchmal, wenn man nicht weiterkommt, braucht man einen Neustart, um wieder auf den richtigen Weg zu kommen. Hier ist der (abermalige) Grund dafür&amp;hellip;&lt;/p&gt;
 &lt;p&gt;Immer wieder habe ich überlegt, mit welchem Inhalt ich diese Domain befüllen könnte. Zuerst wollte ich lustige Anekdoten aus dem Büroalltag posten, musste aber befürchten, dass sie schnell den jeweiligen Personen zugeordnet werden könnten - auf die entsprechenden Folgen kann ich gern versichten. Deshalb habe ich diese Idee verworfen. Ähnliche Befürchtungen gab es auch beim Thema Datasecurity, wenn ich interessante Anekdoten des &amp;ldquo;Daily Doings&amp;rdquo; aus meinem Berufsalltag teilen sollte. Also habe ich mich auch hier schnell dagegen entschieden. Dann wurde mir durch &amp;ldquo;berufliche Umstände&amp;rdquo; die Leitung verschiedener Projekte anvertraut, durch die ich mich intensiver mit verschiedenen Themen beschäftigen muss. Aber auch da ist mangels Zeit und einigen weiteren beruflichen Faktoren hier kein Content entstanden.&lt;/p&gt;
 &lt;p&gt;Nun bin ich in letzter Zeit immer häufiger, speziell auf Mastodon, im Austausch mit vielen IT-affinen Menschen gekommen. Meist war das Initiale hier, dass ich aktuell versuche auch privat mein heimisches IT-Umfeld weiterzuentwickeln. Sei es das heimische Netzwerk, das HomeLab, SmartHome; bei all dem gibt es viel zu tun und viel zu bedenken - genug um das ganze hier mitzuschreiben. Und all das ist genau das, was ich nun hier versuche einzufangen. Ich kann nicht versprechen inwieweit hier ein regelmäßiger Input oder Output von mir erscheinen wird. Ich werde mir aber immer wieder kleine Notizen machen, die sowohl Entscheidungen als auch das neu Gelernte beinhalten und mir später helfen sollen, mich zu erinnern. Und natürlich stelle ich mich auch gern der Diskussion mit Euch über die Themen, die ich hier verschriftliche.&lt;/p&gt;
@@ -20,10 +20,10 @@
         </item>
         <item>
         <title>hello world</title>
-        <link>https://svencschmidt.github.com/blog/hello-world/</link>
+        <link>https://www.scnr.it/blog/hello-world/</link>
         <pubDate>Tue, 14 Feb 2023 11:00:00 +0100</pubDate>
         
-        <guid>https://svencschmidt.github.com/blog/hello-world/</guid>
+        <guid>https://www.scnr.it/blog/hello-world/</guid>
         <description>&lt;p&gt;Es tut mir wirklich leid, aber ich kann einfach nicht anders. Ich bin versessen nach IT und dies hier ist mein kleines Log über die Tücken dieser Hassliebe. Eine Art therapeutisches Tagebuch zur Selbsthilfe.&lt;/p&gt;
 &lt;p&gt;In diesem Sinne:&lt;br&gt;
 &lt;strong&gt;Hello World, I&amp;rsquo;m so &amp;ldquo;sorry, couldn&amp;rsquo;t resist IT&amp;rdquo;&lt;/strong&gt;&lt;br&gt;

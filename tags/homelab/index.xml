@@ -6,10 +6,10 @@
         <description>Recent content in homelab on scnr.IT</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>de-DE</language>
-        <lastBuildDate>Tue, 21 Feb 2023 21:10:00 +0100</lastBuildDate><atom:link href="https://www.scnr.it/tags/homelab/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 21 Feb 2023 21:15:00 +0100</lastBuildDate><atom:link href="https://www.scnr.it/tags/homelab/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>von Nets, Labs und Homes - quo vadis?</title>
         <link>https://www.scnr.it/blog/von-nets-labs-und-homes/</link>
-        <pubDate>Tue, 21 Feb 2023 21:10:00 +0100</pubDate>
+        <pubDate>Tue, 21 Feb 2023 21:15:00 +0100</pubDate>
         
         <guid>https://www.scnr.it/blog/von-nets-labs-und-homes/</guid>
         <description>&lt;p&gt;Manchmal hat man Ziele, weiß aber gar nicht, wo diese überhaupt liegen. Geschweige denn, wie der Weg dahin aussieht, wo der Anfang und wo das Ende ist. Genau vor diesem Problem stehe ich nun in der Weiterentwicklung bzw. dem Aufbau der heimischen Infrastruktur, sowohl in Anbetracht des bestehenden HomeNets, des aufzubauenden HomeLabs und des Smart Homes, welches auf neue Beine gestellt werden soll. Doch fangen wir vielleicht erst einmal beim Ist-Zustand an und ja, dies wird erst einmal ein komplexer Ersteindruck.&lt;/p&gt;

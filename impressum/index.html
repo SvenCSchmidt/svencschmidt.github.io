@@ -35,25 +35,7 @@ E-Mail: iam (äth) scnr (punkt) it Haftungsausschluss Haftung für Inhalte Die I
     <meta name="msapplication-TileColor" content="#2b5797">
     <meta name="msapplication-config" content="/img/browserconfig.xml">
     <meta name="theme-color" content="#ffffff">
-<style>
-	
-    :root {
-        --article-font-family: "IBM Plex Sans", var(--base-font-family);
-    }
-</style>
 
-<script>
-    (function () {
-        const customFont = document.createElement('link');
-        
-        customFont.href = "/font/IBMPlexSans-Light.ttf";
-    
-        customFont.type = "text/css";
-        customFont.rel = "stylesheet";
-    
-        document.head.appendChild(customFont);
-    }());
-</script>
     </head>
     <body class="
     article-page
@@ -685,20 +667,34 @@ GitHub hat Compliance-Maßnahmen für internationale Datenübermittlungen umgese
     :root {
         --article-font-family: "IBM Plex Sans", var(--base-font-family);
     }
+     
+    @font-face {
+        font-family: 'IBM Plex Sans';
+        font-style: normal;
+        font-weight: 300;
+        font-display: swap;
+        src: url(/font/IBMPlexSans-Light.woff2) format('woff2');
+        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    }
+     
+    @font-face {
+        font-family: 'IBM Plex Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-display: swap;
+        src: url(/font/IBMPlexSans-Bold.woff2) format('woff2');
+        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    }
+     
+    @font-face {
+        font-family: 'Lato';
+        font-style: normal;
+        font-weight: 300;
+        font-display: swap;
+        src: url(/font/LatoLatin-Regular.woff2) format('woff2');
+        unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+    }
 </style>
-
-<script>
-    (function () {
-        const customFont = document.createElement('link');
-        
-        customFont.href = "/font/IBMPlexSans-Light.ttf";
-    
-        customFont.type = "text/css";
-        customFont.rel = "stylesheet";
-    
-        document.head.appendChild(customFont);
-    }());
-</script>
 
     </body>
 </html>

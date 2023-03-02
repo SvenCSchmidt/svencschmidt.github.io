@@ -5,7 +5,7 @@
         <link>https://www.scnr.it/</link>
         <description>Recent content on scnr.IT</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>de-DE</language>
+        <language>de-de</language>
         <lastBuildDate>Tue, 21 Feb 2023 21:15:00 +0100</lastBuildDate><atom:link href="https://www.scnr.it/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>von Nets, Labs und Homes - quo vadis?</title>
         <link>https://www.scnr.it/blog/von-nets-labs-und-homes/</link>
@@ -126,19 +126,19 @@ oder sollte ich doch lieber sagen: &amp;ldquo;Sorry, not sorry?&amp;rdquo;&lt;/p
 </description>
         </item>
         <item>
-        <title>archiv</title>
-        <link>https://www.scnr.it/archiv/</link>
+        <title>archive</title>
+        <link>https://www.scnr.it/archive/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://www.scnr.it/archiv/</guid>
+        <guid>https://www.scnr.it/archive/</guid>
         <description></description>
         </item>
         <item>
-        <title>suche</title>
-        <link>https://www.scnr.it/suche/</link>
+        <title>search</title>
+        <link>https://www.scnr.it/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://www.scnr.it/suche/</guid>
+        <guid>https://www.scnr.it/search/</guid>
         <description></description>
         </item>
         

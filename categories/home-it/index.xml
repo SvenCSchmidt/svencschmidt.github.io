@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>home IT on scnr.IT</title>
+        <link>https://www.scnr.it/categories/home-it/</link>
+        <description>Recent content in home IT on scnr.IT</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>de-de</language>
+        <lastBuildDate>Tue, 21 Feb 2023 21:15:00 +0100</lastBuildDate><atom:link href="https://www.scnr.it/categories/home-it/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>von Nets, Labs und Homes - quo vadis?</title>
+        <link>https://www.scnr.it/blog/von-nets-labs-und-homes/</link>
+        <pubDate>Tue, 21 Feb 2023 21:15:00 +0100</pubDate>
+        
+        <guid>https://www.scnr.it/blog/von-nets-labs-und-homes/</guid>
+        <description>&lt;p&gt;Manchmal hat man Ziele, weiß aber gar nicht, wo diese überhaupt liegen. Geschweige denn, wie der Weg dahin aussieht, wo der Anfang und wo das Ende ist. Genau vor diesem Problem stehe ich nun in der Weiterentwicklung bzw. dem Aufbau der heimischen Infrastruktur, sowohl in Anbetracht des bestehenden HomeNets, des aufzubauenden HomeLabs und des Smart Homes, welches auf neue Beine gestellt werden soll. Doch fangen wir vielleicht erst einmal beim Ist-Zustand an und ja, dies wird erst einmal ein komplexer Ersteindruck.&lt;/p&gt;
+&lt;h3 id=&#34;die-wohnung&#34;&gt;Die Wohnung&lt;/h3&gt;
+&lt;p&gt;Mit der Wohnung hatten wir grundlegend Glück - groß genug auf zwei Etagen, Lage akzeptabel, Preis-Leistung phänomenal. Doch wie sagt man so schön, jede Sache hat ihren Haken. In diesem Fall ist dies unter anderem die heimische Verkabelung.&lt;br&gt;
+Mitte des letzten Jahrzehnts war es trotz Allem immer noch schwierig eine Wohnung, welche über eine vollständige CAT-Verkabelung besaß, zu finden. Deshalb wurde das Thema zum damaligen Zeitpunkt leider nicht berücksichtigt. Ich war ja bereits froh, dass zum Zeitpunkt des Einzugs hier 100Mbit ankamen. Inzwischen sind dies ~280MBit down mit 40MBit up, soweit in Ordnung. Aber kommen wir zurück zum Problem, die Verkabelung.&lt;/p&gt;
+&lt;h3 id=&#34;der-internetanschlusspunkt&#34;&gt;Der Internetanschlusspunkt&lt;/h3&gt;
+&lt;p&gt;Der Endpunkt des Anbieters kommt hier in der Kammer im Erdgeschoss der Wohnung an (in der Realität handelt es sich eigentlich um das erste Stockwerk des Gebäudes, aber das nur der Vollständigkeit halber - im weiteren Verlauf benutze ich die Begriffe Erd- und Obergeschoss). In der Kammer, die sonst Vorrat, Werkzeug und sonstigen Utensilien beherbergt, ist ua. auch der Verteilerknoten für die Fußbodenheizung im Erdgeschoss.&lt;br&gt;
+Der ankommende Anschluss kann von dort nun verschiedene Wege nehmen. Je nachdem wie man das ankommende Kabel weiter verbindet, liegt das Signal nun entweder an einer TAE9-Dose im Wohnzimmer (Erdgeschoss) beim Fernseher, neben/unterhalb der Treppe nach oben, die vom Wohnzimmer abgeht, sowie als dritte Möglichkeit im Gästezimmer bzw. Arbeitszimmer meiner Frau. Ich könnte mir also theoretisch an drei Stellen der Wohnung den zentralen Knotenpunkt erstellen - vier, wenn man die Kammer mit einrechnet und eine entsprechende Anschlussdose installieren würde.&lt;/p&gt;
+&lt;h3 id=&#34;das-interne-netz&#34;&gt;Das interne Netz&lt;/h3&gt;
+&lt;p&gt;Zum aktuellen Zeitpunkt liegt das Signal im Wohnzimmer verankert, wo sich unterhalb des Fernsehers die Fritzbox um die Verbindung kümmert. Hier liegt entsprechend weitere Hardware an, jedoch alles in kleiner (Volumen-)Größe und vor Allem in geringer Betriebslautstärke. Die dortigen Geräte sind über zwei 8 Port Netgear Switches angebunden und verrichten bisher ihren Dienst.&lt;br&gt;
+Außerdem geht es von hier per PowerLan über AVM-Devices in das Schlafzimmer im Obergeschoss, damit dort eine bessere WLAN-Ausleuchtung gegeben ist, Fußbodenheizung und Echtholzparkettboden, oder besser gesagt signaldämpfendes Wasser und Holz, sei Dank. Das WLAN dort wird natürlich im obigen Arbeitszimmer benötigt, damit Home Office für meine Frau stabil möglich ist, der LAN-Port des PowerLine APs wird hin und wieder für einen Media Receiver genutzt.&lt;br&gt;
+Und um das alles noch abzurunden, steht in meinem Büro im Erdgeschoss auch ein WLAN Repeater von AVM mit Bridge-Funktion um dort einen weiteren 8 Port Netgear Switch für Geräte ohne WLAN zu befeuern. Hier steht natürlich die restliche Hardware in Form von Client und Server.&lt;/p&gt;
+&lt;h3 id=&#34;home-smart-home&#34;&gt;Home Smart Home&lt;/h3&gt;
+&lt;p&gt;Das Smart Home wird zum gegenwärtigen Zeitpunkt über Apples HomeKit gesteuert. Da ich auch ohne großen Zwischenstopp über den Aufbau eines VPNs oder dem Öffnen von Ports nach außen Zugriff auf die heimischen Geräte haben wollte, lag dies als iPhone-User mehr als nahe. Ein AppleTV wird dabei als Steuerzentrale eingesetzt und wird dabei von einer Philips Hue Bridge und einem Pi mit HomeBridge/Zigbee2MQTT unterstützt. Einzig hier bin ich zumindest an dem Punkt zu wissen, dass ich die HomeBridge von Home Assistant ablösen lassen will. Der dafür notwendige Home Assistant SkyConnect ist bereits vorhanden, so dass ich hier nicht nur Zigbee, sondern auch später Thread &amp;ldquo;sprechen&amp;rdquo; kann. Ob ich Home Assistant jedoch als Docker Container oder als virtuelle HA OS Maschine betreiben möchte, habe ich noch nicht entschieden.&lt;/p&gt;
+&lt;h3 id=&#34;wo-bleibt-der-service&#34;&gt;Wo bleibt der Service?&lt;/h3&gt;
+&lt;p&gt;Wie man sich denken kann, ist die Unterstützung des Smart Homes ein essentieller Bestandteil meiner Liste an Services. Dieser Dienst sollte auch bestmöglich ausfallsicher designt werden, damit die Akzeptanz der im Haushalt wohnenden Person nicht beeinträchtigt wird. Ausserdem sind weitere Services wie zB Paperless-ngx, File Sharing, Backup von Webspace und einem Microsoft 365 Business Tenant oder Vaultwarden im Einsatz und sollten dies auch bleiben.&lt;br&gt;
+Aber auch mind. zwei Windows Server sollen zukünftig aktiv eingesetzt und zu Testzwecken genutzt werden - das schwere Los eines Administrators für Microsoft Infrastruktur. Natürlich soll hier auf Virtualisierung statt auf Blech gesetzt werden.&lt;/p&gt;
+&lt;h3 id=&#34;quo-vadis&#34;&gt;Quo Vadis?&lt;/h3&gt;
+&lt;p&gt;Wohin führt mich nun der Weg? Das ist die große, mich quälende Frage. Ideen habe ich viele, doch steht dabei teils bereits der physische Aufbau, im speziellen die Platzierung des &amp;ldquo;Einstiegspunktes&amp;rdquo;, im Weg. Viele Ideen habe ich bereits - ob sie alle Sinn machen, lasse ich mal im Raum stehen. Aber einen kleinen Auszug möchte ich geben:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Austausch der Fritzbox / Netzwerk über OpnSense
+Die FritzBox als Modem ersetzen durch einen AllNet All-BM300, dahinter einen vorhandenen Fujitsu Futro S920 als OpnSense, wiederum gefolgt von der FritzBox für WLAN/PowerLine, solange keine andere Verkabelungsmöglichkeit besteht. Dafür müsste jedoch auch eine Art Platzproblem gelöst werden.&lt;/li&gt;
+&lt;li&gt;Home Assistant als Docker Container oder virtuelle Maschine/&amp;ldquo;Blech&amp;rdquo;
+Home Assistant kann ich entweder als Docker Container auf der vorhandenen Synology installieren, oder über einen RaspberryPi (oder einen Server als VM) in der OS-Version. Dieser Punkt wiederum ist auch abhängig von anderen Faktoren, wie zB&amp;hellip;&lt;/li&gt;
+&lt;li&gt;Neue Synology DS923+ und/oder Server-Hardware
+Ersetze ich die bestehende Synology durch eine aktuellere, performantere Variante, nutze sie wie gewohnt als FileShare und Docker Container, aber auch für virtuelle Maschinen? Oder setze ich auf einen eigenen Proxmox-Server(-Cluster) auf Basis eines/mehrerer Computer, die vorhanden sind. Oder tausche ich die Hardware an dieser Stelle sogar ggf. noch aus? Mal von eventuellen im Rahmen zu bleibenden Anschaffungskosten abgesehen, sind die Betriebskosten in Form von Strom natürlich ein großer Faktor. Hier gilt: So wenig Verbrauch wie nötig, so viel Freiheit wie möglich.&lt;/li&gt;
+&lt;li&gt;Absichern interner Services und diese stabil betreiben
+Hier bedarf es wohl keiner weiteren Worte, wurde es ja bereits weiter oben erwähnt. Ersatz-Pis, Proxmox im Cluster mit PBS - Ideen, Möglichkeiten, Variationen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Das soll es fürs Erste sein. Im nächsten Beitrag zu dem Thema werde ich mich genauer mit vorhandenen und nicht vorhandenen Möglichkeiten in puncto Hardware beschäftigen. Solange nehme ich natürlich auch gerne Ideen und Ratschläge an oder diskutiere mit Euch die beschriebenen Punkte.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

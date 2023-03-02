@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.scnr.it/categories/home-it/</loc>
+    <lastmod>2023-02-21T21:15:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.scnr.it/tags/homelab/</loc>
     <lastmod>2023-02-21T21:15:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -12,7 +17,17 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://www.scnr.it/categories/</loc>
+    <lastmod>2023-02-21T21:15:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.scnr.it/post/</loc>
+    <lastmod>2023-02-21T21:15:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.scnr.it/tags/</loc>
     <lastmod>2023-02-21T21:15:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -23,11 +38,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.scnr.it/tags/smart-home/</loc>
-    <lastmod>2023-02-21T21:15:00+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.scnr.it/tags/</loc>
     <lastmod>2023-02-21T21:15:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -57,6 +67,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://www.scnr.it/categories/log/</loc>
+    <lastmod>2023-02-15T11:30:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.scnr.it/blog/reboot-remastered/</loc>
     <lastmod>2023-02-15T11:30:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -72,15 +87,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.scnr.it/archiv/</loc>
+    <loc>https://www.scnr.it/archive/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.scnr.it/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.scnr.it/suche/</loc>
+    <loc>https://www.scnr.it/search/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

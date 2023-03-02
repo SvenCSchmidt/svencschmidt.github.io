@@ -29,15 +29,15 @@ Und um das alles noch abzurunden, steht in meinem Büro im Erdgeschoss auch ein 
 &lt;p&gt;Wie man sich denken kann, ist die Unterstützung des Smart Homes ein essentieller Bestandteil meiner Liste an Services. Dieser Dienst sollte auch bestmöglich ausfallsicher designt werden, damit die Akzeptanz der im Haushalt wohnenden Person nicht beeinträchtigt wird. Ausserdem sind weitere Services wie zB Paperless-ngx, File Sharing, Backup von Webspace und einem Microsoft 365 Business Tenant oder Vaultwarden im Einsatz und sollten dies auch bleiben.&lt;br&gt;
 Aber auch mind. zwei Windows Server sollen zukünftig aktiv eingesetzt und zu Testzwecken genutzt werden - das schwere Los eines Administrators für Microsoft Infrastruktur. Natürlich soll hier auf Virtualisierung statt auf Blech gesetzt werden.&lt;/p&gt;
 &lt;h3 id=&#34;quo-vadis&#34;&gt;Quo Vadis?&lt;/h3&gt;
-&lt;p&gt;Wohin führt mich nun der Weg? Das ist die große, mich quälende Frage. Ideen habe ich viele, doch steht dabei teils bereits der physische Aufbau, im speziellen die Platzierung des &amp;ldquo;Einstiegspunktes&amp;rdquo;, im Weg. Viele Ideen habe ich bereits - ob sie alle Sinn machen, lasse ich mal im Raum stehen. Aber einen kleinen Auszug möchte ich geben:&lt;/p&gt;
+&lt;p&gt;Wohin führt mich nun der Weg? Das ist die große, mich quälende Frage. Ansätze habe ich viele, doch steht dabei teils bereits der physische Aufbau, im speziellen die Platzierung des &amp;ldquo;Einstiegspunktes&amp;rdquo;, im Weg. Viele Ideen habe ich bereits - ob sie alle Sinn machen, lasse ich mal im Raum stehen. Aber einen kleinen Auszug möchte ich geben:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Austausch der Fritzbox / Netzwerk über OpnSense
+&lt;li&gt;Austausch der Fritzbox / Netzwerk über OpnSense&lt;br&gt;
 Die FritzBox als Modem ersetzen durch einen AllNet All-BM300, dahinter einen vorhandenen Fujitsu Futro S920 als OpnSense, wiederum gefolgt von der FritzBox für WLAN/PowerLine, solange keine andere Verkabelungsmöglichkeit besteht. Dafür müsste jedoch auch eine Art Platzproblem gelöst werden.&lt;/li&gt;
-&lt;li&gt;Home Assistant als Docker Container oder virtuelle Maschine/&amp;ldquo;Blech&amp;rdquo;
+&lt;li&gt;Home Assistant als Docker Container oder virtuelle Maschine/&amp;ldquo;Blech&amp;rdquo;&lt;br&gt;
 Home Assistant kann ich entweder als Docker Container auf der vorhandenen Synology installieren, oder über einen RaspberryPi (oder einen Server als VM) in der OS-Version. Dieser Punkt wiederum ist auch abhängig von anderen Faktoren, wie zB&amp;hellip;&lt;/li&gt;
-&lt;li&gt;Neue Synology DS923+ und/oder Server-Hardware
+&lt;li&gt;Neue Synology DS923+ und/oder Server-Hardware&lt;br&gt;
 Ersetze ich die bestehende Synology durch eine aktuellere, performantere Variante, nutze sie wie gewohnt als FileShare und Docker Container, aber auch für virtuelle Maschinen? Oder setze ich auf einen eigenen Proxmox-Server(-Cluster) auf Basis eines/mehrerer Computer, die vorhanden sind. Oder tausche ich die Hardware an dieser Stelle sogar ggf. noch aus? Mal von eventuellen im Rahmen zu bleibenden Anschaffungskosten abgesehen, sind die Betriebskosten in Form von Strom natürlich ein großer Faktor. Hier gilt: So wenig Verbrauch wie nötig, so viel Freiheit wie möglich.&lt;/li&gt;
-&lt;li&gt;Absichern interner Services und diese stabil betreiben
+&lt;li&gt;Absichern interner Services und diese stabil betreiben&lt;br&gt;
 Hier bedarf es wohl keiner weiteren Worte, wurde es ja bereits weiter oben erwähnt. Ersatz-Pis, Proxmox im Cluster mit PBS - Ideen, Möglichkeiten, Variationen.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Das soll es fürs Erste sein. Im nächsten Beitrag zu dem Thema werde ich mich genauer mit vorhandenen und nicht vorhandenen Möglichkeiten in puncto Hardware beschäftigen. Solange nehme ich natürlich auch gerne Ideen und Ratschläge an oder diskutiere mit Euch die beschriebenen Punkte.&lt;/p&gt;

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>sorry on scnr.IT</title>
-        <link>https://www.scnr.it/tags/sorry/</link>
-        <description>Recent content in sorry on scnr.IT</description>
+        <title>click und clack on scnr.IT</title>
+        <link>https://www.scnr.it/categories/click-und-clack/</link>
+        <description>Recent content in click und clack on scnr.IT</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>de-de</language>
-        <lastBuildDate>Sun, 12 Mar 2023 13:00:00 +0100</lastBuildDate><atom:link href="https://www.scnr.it/tags/sorry/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 12 Mar 2023 13:00:00 +0100</lastBuildDate><atom:link href="https://www.scnr.it/categories/click-und-clack/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>wie ich lernte die mechanik zu lieben - part I</title>
         <link>https://www.scnr.it/blog/wie-ich-lernte-die-mechanik-zu-lieben-part-i/</link>
         <pubDate>Sun, 12 Mar 2023 13:00:00 +0100</pubDate>
@@ -24,30 +24,6 @@ Ich sprang also ins kalte Wasser und schwamm - ich schwamm, als wäre ich jeden 
 &lt;p&gt;&amp;ldquo;Dies hier ist meine Tastatur. Es gibt viele andere, aber diese ist meine. Meine Tastatur ist mein bester Freund.&amp;rdquo; Müsste es nicht so oder zumindest so ähnlich heißen? Es fühlte sich leider nicht so an. Klar, was mich hier erwartete war schon ein weiterer Schritt in der Entwicklung einer Tastatur, meiner Tastatur, aber auch hier machten mir Switche und Keycaps einen Strich durch die Rechnung.&lt;br&gt;
 Dies war dann wieder der Moment, in dem ich dafür dankbar war, dass mein Enthusiasmus mich manchmal zu intensiv mitreisst und ich versuche innerhalb kürzester Zeit alles an Informationen aufzunehmen, was auch nur irgend möglich ist. Switchtester waren zu diesem Zeitpunkt schon bestellt, teils bereits geliefert. Ich hatte auf Twitter und Discord ebenso nach Empfehlungen gefragt und gefühlt konnte ich obendrein auch alle Keycapprofile aus dem Kopf sauber nachzeichnen. Mögliche Optionen die Tastatur zu modden hatte ich ja vor Bestellung selbiger auch im Kopf notiert. So war mir nun recht schnell klar, was ich alles ändern musste, aber ob dies auch zu meiner Tastatur führen würde? Inzwischen bekam ich immer häufiger aus der Bubble mit, dass es nie bei nur einer Tastatur blieb. Und auch dann, ganz gleich wie sicher man sich sei das richtige Setup gefunden zu haben, stolperte man über kurz oder lang über die nächste Entwicklung, die man unbedingt ausprobieren wollte.&lt;br&gt;
 Ich fragte mich, worauf ich mich hier eingelassen hatte? Wie tief kann man in dieses Rabbit Hole stürzen? Und der März war noch nicht einmal vorbei.&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>reboot remastered</title>
-        <link>https://www.scnr.it/blog/reboot-remastered/</link>
-        <pubDate>Wed, 15 Feb 2023 11:30:00 +0100</pubDate>
-        
-        <guid>https://www.scnr.it/blog/reboot-remastered/</guid>
-        <description>&lt;p&gt;&amp;ldquo;Jeder Boot tut gut&amp;rdquo; - das ist eine Redewendung aus der IT, die ich auch hier mal (wieder) anwende. Denn manchmal, wenn man nicht weiterkommt, braucht man einen Neustart, um wieder auf den richtigen Weg zu kommen. Hier ist der (abermalige) Grund dafür&amp;hellip;&lt;/p&gt;
-&lt;p&gt;Immer wieder habe ich überlegt, mit welchem Inhalt ich diese Domain befüllen könnte. Zuerst wollte ich lustige Anekdoten aus dem Büroalltag posten, musste aber befürchten, dass sie schnell den jeweiligen Personen zugeordnet werden könnten - auf die entsprechenden Folgen kann ich gern versichten. Deshalb habe ich diese Idee verworfen. Ähnliche Befürchtungen gab es auch beim Thema Datasecurity, wenn ich interessante Anekdoten des &amp;ldquo;Daily Doings&amp;rdquo; aus meinem Berufsalltag teilen sollte. Also habe ich mich auch hier schnell dagegen entschieden. Dann wurde mir durch &amp;ldquo;berufliche Umstände&amp;rdquo; die Leitung verschiedener Projekte anvertraut, durch die ich mich intensiver mit verschiedenen Themen beschäftigen muss. Aber auch da ist mangels Zeit und einigen weiteren beruflichen Faktoren hier kein Content entstanden.&lt;/p&gt;
-&lt;p&gt;Nun bin ich in letzter Zeit immer häufiger, speziell auf Mastodon, im Austausch mit vielen IT-affinen Menschen gekommen. Meist war das Initiale hier, dass ich aktuell versuche auch privat mein heimisches IT-Umfeld weiterzuentwickeln. Sei es das heimische Netzwerk, das HomeLab, SmartHome; bei all dem gibt es viel zu tun und viel zu bedenken - genug um das ganze hier mitzuschreiben. Und all das ist genau das, was ich nun hier versuche einzufangen. Ich kann nicht versprechen inwieweit hier ein regelmäßiger Input oder Output von mir erscheinen wird. Ich werde mir aber immer wieder kleine Notizen machen, die sowohl Entscheidungen als auch das neu Gelernte beinhalten und mir später helfen sollen, mich zu erinnern. Und natürlich stelle ich mich auch gern der Diskussion mit Euch über die Themen, die ich hier verschriftliche.&lt;/p&gt;
-&lt;p&gt;Es handelt sich also eigentlich nur um mein ganz privates (B)log, über das Du wahrscheinlich nur rein zufällig gestolpert bist. Herzlichen Glückwunsch und viel Spaß!&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>hello world</title>
-        <link>https://www.scnr.it/blog/hello-world/</link>
-        <pubDate>Tue, 14 Feb 2023 10:30:00 +0100</pubDate>
-        
-        <guid>https://www.scnr.it/blog/hello-world/</guid>
-        <description>&lt;p&gt;Es tut mir wirklich leid, aber ich kann einfach nicht anders. Ich bin versessen nach IT und dies hier ist mein kleines Log über die Tücken dieser Hassliebe. Eine Art therapeutisches Tagebuch zur Selbsthilfe.&lt;/p&gt;
-&lt;p&gt;In diesem Sinne:&lt;br&gt;
-&lt;strong&gt;Hello World, I&amp;rsquo;m so &amp;ldquo;sorry, couldn&amp;rsquo;t resist IT&amp;rdquo;&lt;/strong&gt;&lt;br&gt;
-oder sollte ich doch lieber sagen: &amp;ldquo;Sorry, not sorry?&amp;rdquo;&lt;/p&gt;
 </description>
         </item>
         

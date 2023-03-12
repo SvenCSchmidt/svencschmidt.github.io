@@ -2,6 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.scnr.it/categories/click-und-clack/</loc>
+    <lastmod>2023-03-12T13:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.scnr.it/categories/</loc>
+    <lastmod>2023-03-12T13:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.scnr.it/tags/keyboard/</loc>
+    <lastmod>2023-03-12T13:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.scnr.it/post/</loc>
+    <lastmod>2023-03-12T13:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.scnr.it/tags/</loc>
+    <lastmod>2023-03-12T13:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.scnr.it/</loc>
+    <lastmod>2023-03-12T13:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.scnr.it/tags/sorry/</loc>
+    <lastmod>2023-03-12T13:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.scnr.it/blog/wie-ich-lernte-die-mechanik-zu-lieben-part-i/</loc>
+    <lastmod>2023-03-12T13:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.scnr.it/categories/home-it/</loc>
     <lastmod>2023-02-21T21:15:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -13,26 +53,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.scnr.it/tags/homenet/</loc>
-    <lastmod>2023-02-21T21:15:00+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.scnr.it/categories/</loc>
-    <lastmod>2023-02-21T21:15:00+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.scnr.it/post/</loc>
-    <lastmod>2023-02-21T21:15:00+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.scnr.it/tags/</loc>
-    <lastmod>2023-02-21T21:15:00+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.scnr.it/</loc>
     <lastmod>2023-02-21T21:15:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -73,11 +93,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.scnr.it/blog/reboot-remastered/</loc>
-    <lastmod>2023-02-15T11:30:00+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.scnr.it/tags/sorry/</loc>
     <lastmod>2023-02-15T11:30:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

@@ -3,37 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.scnr.it/categories/click-und-clack/</loc>
-    <lastmod>2023-04-26T20:00:00+01:00</lastmod>
+    <lastmod>2023-07-07T09:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.scnr.it/blog/es-machte-click-clack-und-hack/</loc>
+    <lastmod>2023-07-07T09:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.scnr.it/categories/</loc>
-    <lastmod>2023-04-26T20:00:00+01:00</lastmod>
+    <lastmod>2023-07-07T09:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.scnr.it/tags/keyboard/</loc>
-    <lastmod>2023-04-26T20:00:00+01:00</lastmod>
+    <lastmod>2023-07-07T09:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.scnr.it/tags/podcast/</loc>
+    <lastmod>2023-07-07T09:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.scnr.it/post/</loc>
-    <lastmod>2023-04-26T20:00:00+01:00</lastmod>
+    <lastmod>2023-07-07T09:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.scnr.it/tags/</loc>
-    <lastmod>2023-04-26T20:00:00+01:00</lastmod>
+    <lastmod>2023-07-07T09:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.scnr.it/</loc>
-    <lastmod>2023-04-26T20:00:00+01:00</lastmod>
+    <lastmod>2023-07-07T09:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.scnr.it/tags/sorry/</loc>
-    <lastmod>2023-04-26T20:00:00+01:00</lastmod>
+    <lastmod>2023-07-07T09:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>

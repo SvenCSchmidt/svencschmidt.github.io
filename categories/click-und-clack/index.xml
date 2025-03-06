@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>click und clack on scnr.IT</title>
-        <link>https://www.scnr.it/categories/click-und-clack/</link>
+        <link>http://localhost:1313/categories/click-und-clack/</link>
         <description>Recent content in click und clack on scnr.IT</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>de-de</language>
-        <lastBuildDate>Fri, 07 Jul 2023 09:00:00 +0100</lastBuildDate><atom:link href="https://www.scnr.it/categories/click-und-clack/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 07 Jul 2023 09:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/categories/click-und-clack/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>es machte click clack und hack</title>
-        <link>https://www.scnr.it/blog/es-machte-click-clack-und-hack/</link>
+        <link>http://localhost:1313/blog/es-machte-click-clack-und-hack/</link>
         <pubDate>Fri, 07 Jul 2023 09:00:00 +0100</pubDate>
         
-        <guid>https://www.scnr.it/blog/es-machte-click-clack-und-hack/</guid>
+        <guid>http://localhost:1313/blog/es-machte-click-clack-und-hack/</guid>
         <description>&lt;h3 id=&#34;zurück-am-mikrofon&#34;&gt;Zurück am Mikrofon&lt;/h3&gt;
 &lt;p&gt;Ich hatte die Ehre letzten Monat zur Aufnahme der Late Night Episode des Podcasts &lt;a class=&#34;link&#34; href=&#34;https://clickclackhack.de&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Click!Clack!Hack!&lt;/a&gt; eingeladen worden zu sein. In illustrer Runde konnte ich mit Host &lt;a class=&#34;link&#34; href=&#34;https://corteximplant.com/@0x17&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
@@ -27,10 +27,10 @@
         </item>
         <item>
         <title>wie ich lernte die mechanik zu lieben - part II</title>
-        <link>https://www.scnr.it/blog/wie-ich-lernte-die-mechanik-zu-lieben-part-ii/</link>
+        <link>http://localhost:1313/blog/wie-ich-lernte-die-mechanik-zu-lieben-part-ii/</link>
         <pubDate>Wed, 26 Apr 2023 20:00:00 +0100</pubDate>
         
-        <guid>https://www.scnr.it/blog/wie-ich-lernte-die-mechanik-zu-lieben-part-ii/</guid>
+        <guid>http://localhost:1313/blog/wie-ich-lernte-die-mechanik-zu-lieben-part-ii/</guid>
         <description>&lt;h3 id=&#34;stein-auf-stein-so-ist-sie-mein&#34;&gt;Stein auf Stein, so ist sie mein&lt;/h3&gt;
 &lt;p&gt;Das neue Keyboard war da, eine Royal Kludge RK84 Pro, die sich für mich leider nicht so schön anfühlte wie ich es mir gewünscht hatte. Dennoch wollte ich nicht mehr zurück - nein, ich konnte nicht mehr zurück. Ich packte zwischendrin die MX Keys, die mir inzwischen ein paar Jahre hervorragende Dienste geleistet hatte, wieder aus und versuchte zu tippen, brach es aber auch genauso schnell wieder ab. Es fühlte sich falsch an, ich war irritiert von den Tastenwegen, von dem Geräusch, ich wollte es einfach nicht mehr. Also musste an der RK84 etwas getan werden und da sind die Möglichkeiten groß. Aber womit fängt man an?&lt;/p&gt;
 &lt;h3 id=&#34;ein-fesches-käppsche&#34;&gt;Ein fesches Käppsche&lt;/h3&gt;
@@ -58,10 +58,10 @@ Erinnert Ihr Euch noch an die beiden Teufelchen, die ich bereits erwähnte? Eine
         </item>
         <item>
         <title>wie ich lernte die mechanik zu lieben - part I</title>
-        <link>https://www.scnr.it/blog/wie-ich-lernte-die-mechanik-zu-lieben-part-i/</link>
+        <link>http://localhost:1313/blog/wie-ich-lernte-die-mechanik-zu-lieben-part-i/</link>
         <pubDate>Sun, 12 Mar 2023 13:00:00 +0100</pubDate>
         
-        <guid>https://www.scnr.it/blog/wie-ich-lernte-die-mechanik-zu-lieben-part-i/</guid>
+        <guid>http://localhost:1313/blog/wie-ich-lernte-die-mechanik-zu-lieben-part-i/</guid>
         <description>&lt;h3 id=&#34;ihr-seid-nerds&#34;&gt;Ihr seid Nerds&lt;/h3&gt;
 &lt;p&gt;Den genauen Tag kann ich leider nicht mehr benennen, aber es war in der ersten beiden Wochen des Monats März 2022 als wir, ich und ein hier nicht weiter genannter Herr, uns während eines beruflichen Telefonats plötzlich über Tastaturen unterhielten. Ich war vollkommen überzeugt von der wundervollen Qualität der Low Profile Tastaturen von Apple oder den Logitech MX Keys, die zum damaligen Zeitpunkt im täglichen Einsatz waren. Doch ich hörte ein müdes Lächeln aus der anderen Seite der Leitung und so fiel der Satz &amp;ldquo;Im Büro in meinem Rollcontainer liegt meine Ducky, nimm Dir die mal mit und teste sie. Hier im Home Office nutzt sie mir ja eh nichts, wenn sie im Büro liegt.&amp;rdquo; (sinngemäße Wiedergabe des Wortlauts und kein Anspruch auf Genauig- oder Vollständigkeit). Gut, ich willigte ein und wollte sie beim nächsten Besuch im Büro einpacken.&lt;br&gt;
 Die Zeit bis dahin konnte man aber doch schonmal nutzen, oder? Was gibt es so für Schalter, was für Keycaps, was für Boards? Man muss ja wissen, auf was man sich da so einlässt und wenn man bereits von Nerds zu einem Thema umzingelt ist, dann bekommt man natürlich auch direkt das gesamte Vier-Gänge-Menü schmackhaft gemacht, ob man will oder nicht. Und nachdem ich einige Tage lang immer wieder kleine Informationshappen bekam, sah ich mich auch bereits während der Bahnreisen, die die nächsten beiden Wochenenden anstanden, immer weiter in das Thema einlesen, einfach nur weil es auch irgendwie interessant war. Schon bevor ich die erste Taste des Boards gedrückt hatte, wusste ich bereits um die verschiedenen Switch-Farben, kannte die unterschiedlichen Tastaturgrößen und vor allem auch -formen, Keycap-Profile und eine große Reihe an &amp;ldquo;Fachbegriffen&amp;rdquo;. Nun wurde es doch auch langsam wirklich mal Zeit zu tippen und so war es der 15.3., an dem ich mich mal wieder im Büro blicken ließ und die Ducky in meinen Rucksack wanderte. Zuhause wieder angekommen arbeitete ich erst einmal weiter und legte die Tastatur beiseite, bereit sie am nächsten Tag mal statt meiner MX Keys zu nutzen.&lt;/p&gt;

@@ -2,33 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Kategorien on scnr.IT</title>
-        <link>https://www.scnr.it/categories/</link>
+        <link>http://localhost:1313/categories/</link>
         <description>Recent content in Kategorien on scnr.IT</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>de-de</language>
-        <lastBuildDate>Fri, 07 Jul 2023 09:00:00 +0100</lastBuildDate><atom:link href="https://www.scnr.it/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 07 Jul 2023 09:00:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>click und clack</title>
-        <link>https://www.scnr.it/categories/click-und-clack/</link>
+        <link>http://localhost:1313/categories/click-und-clack/</link>
         <pubDate>Fri, 07 Jul 2023 09:00:00 +0100</pubDate>
         
-        <guid>https://www.scnr.it/categories/click-und-clack/</guid>
-        <description></description>
+        <guid>http://localhost:1313/categories/click-und-clack/</guid>
+        <description>&lt;img src="http://localhost:1313/categories/click-und-clack/keebs.jpg" alt="Featured image of post click und clack" /&gt;</description>
         </item>
         <item>
         <title>home IT</title>
-        <link>https://www.scnr.it/categories/home-it/</link>
+        <link>http://localhost:1313/categories/home-it/</link>
         <pubDate>Tue, 21 Feb 2023 21:15:00 +0100</pubDate>
         
-        <guid>https://www.scnr.it/categories/home-it/</guid>
-        <description>&lt;img src="https://www.scnr.it/categories/home-it/technology.jpg" alt="Featured image of post home IT" /&gt;</description>
+        <guid>http://localhost:1313/categories/home-it/</guid>
+        <description>&lt;img src="http://localhost:1313/categories/home-it/technology.jpg" alt="Featured image of post home IT" /&gt;</description>
         </item>
         <item>
         <title>log</title>
-        <link>https://www.scnr.it/categories/log/</link>
+        <link>http://localhost:1313/categories/log/</link>
         <pubDate>Wed, 15 Feb 2023 11:30:00 +0100</pubDate>
         
-        <guid>https://www.scnr.it/categories/log/</guid>
-        <description>&lt;img src="https://www.scnr.it/categories/log/desk.jpg" alt="Featured image of post log" /&gt;</description>
+        <guid>http://localhost:1313/categories/log/</guid>
+        <description>&lt;img src="http://localhost:1313/categories/log/desk.jpg" alt="Featured image of post log" /&gt;</description>
         </item>
         
     </channel>

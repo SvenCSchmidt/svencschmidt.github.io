@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>homelab on scnr.IT</title>
-        <link>https://www.scnr.it/tags/homelab/</link>
-        <description>Recent content in homelab on scnr.IT</description>
+        <title>Homelab on scnr.IT</title>
+        <link>http://localhost:1313/tags/homelab/</link>
+        <description>Recent content in Homelab on scnr.IT</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>de-de</language>
-        <lastBuildDate>Tue, 21 Feb 2023 21:15:00 +0100</lastBuildDate><atom:link href="https://www.scnr.it/tags/homelab/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 21 Feb 2023 21:15:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/tags/homelab/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>von nets, labs und homes - quo vadis?</title>
-        <link>https://www.scnr.it/blog/von-nets-labs-und-homes/</link>
+        <link>http://localhost:1313/blog/von-nets-labs-und-homes/</link>
         <pubDate>Tue, 21 Feb 2023 21:15:00 +0100</pubDate>
         
-        <guid>https://www.scnr.it/blog/von-nets-labs-und-homes/</guid>
+        <guid>http://localhost:1313/blog/von-nets-labs-und-homes/</guid>
         <description>&lt;p&gt;Manchmal hat man Ziele, weiß aber gar nicht, wo diese überhaupt liegen. Geschweige denn, wie der Weg dahin aussieht, wo der Anfang und wo das Ende ist. Genau vor diesem Problem stehe ich nun in der Weiterentwicklung bzw. dem Aufbau der heimischen Infrastruktur, sowohl in Anbetracht des bestehenden HomeNets, des aufzubauenden HomeLabs und des Smart Homes, welches auf neue Beine gestellt werden soll. Doch fangen wir vielleicht erst einmal beim Ist-Zustand an und ja, dies wird erst einmal ein komplexer Ersteindruck.&lt;/p&gt;
 &lt;h3 id=&#34;die-wohnung&#34;&gt;Die Wohnung&lt;/h3&gt;
 &lt;p&gt;Mit der Wohnung hatten wir grundlegend Glück - groß genug auf zwei Etagen, Lage akzeptabel, Preis-Leistung phänomenal. Doch wie sagt man so schön, jede Sache hat ihren Haken. In diesem Fall ist dies unter anderem die heimische Verkabelung.&lt;br&gt;

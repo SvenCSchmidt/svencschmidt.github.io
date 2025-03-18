@@ -2,126 +2,140 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.scnr.it/categories/click-und-clack/</loc>
+    <loc>http://localhost:1313/showroom/keyboards/</loc>
+    <lastmod>2026-09-20T20:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-09-20T20:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/showroom/</loc>
+    <lastmod>2026-09-20T20:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/post/</loc>
+    <lastmod>2025-09-03T20:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/categories/click-und-clack/</loc>
     <lastmod>2023-07-07T09:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.scnr.it/blog/es-machte-click-clack-und-hack/</loc>
+    <loc>http://localhost:1313/blog/es-machte-click-clack-und-hack/</loc>
     <lastmod>2023-07-07T09:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.scnr.it/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2023-07-07T09:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.scnr.it/tags/keyboard/</loc>
+    <loc>http://localhost:1313/tags/keyboard/</loc>
     <lastmod>2023-07-07T09:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.scnr.it/tags/podcast/</loc>
+    <loc>http://localhost:1313/tags/podcast/</loc>
     <lastmod>2023-07-07T09:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.scnr.it/post/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2023-07-07T09:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.scnr.it/tags/</loc>
+    <loc>http://localhost:1313/tags/sorry/</loc>
     <lastmod>2023-07-07T09:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.scnr.it/</loc>
-    <lastmod>2023-07-07T09:00:00+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.scnr.it/tags/sorry/</loc>
-    <lastmod>2023-07-07T09:00:00+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.scnr.it/blog/wie-ich-lernte-die-mechanik-zu-lieben-part-ii/</loc>
+    <loc>http://localhost:1313/blog/wie-ich-lernte-die-mechanik-zu-lieben-part-ii/</loc>
     <lastmod>2023-04-26T20:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.scnr.it/blog/wie-ich-lernte-die-mechanik-zu-lieben-part-i/</loc>
+    <loc>http://localhost:1313/blog/wie-ich-lernte-die-mechanik-zu-lieben-part-i/</loc>
     <lastmod>2023-03-12T13:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.scnr.it/categories/home-it/</loc>
+    <loc>http://localhost:1313/categories/home-it/</loc>
     <lastmod>2023-02-21T21:15:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.scnr.it/tags/homelab/</loc>
+    <loc>http://localhost:1313/tags/homelab/</loc>
     <lastmod>2023-02-21T21:15:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.scnr.it/tags/homenet/</loc>
+    <loc>http://localhost:1313/tags/homenet/</loc>
     <lastmod>2023-02-21T21:15:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.scnr.it/tags/smart-home/</loc>
+    <loc>http://localhost:1313/tags/smart-home/</loc>
     <lastmod>2023-02-21T21:15:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.scnr.it/blog/von-nets-labs-und-homes/</loc>
+    <loc>http://localhost:1313/blog/von-nets-labs-und-homes/</loc>
     <lastmod>2023-02-21T21:15:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.scnr.it/impressum/</loc>
+    <loc>http://localhost:1313/impressum/</loc>
     <lastmod>2023-02-15T12:03:24+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.scnr.it/page/</loc>
+    <loc>http://localhost:1313/page/</loc>
     <lastmod>2023-02-15T12:03:24+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.scnr.it/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2023-02-15T12:03:18+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.scnr.it/tags/hello-world/</loc>
+    <loc>http://localhost:1313/tags/hello-world/</loc>
     <lastmod>2023-02-15T11:30:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.scnr.it/categories/log/</loc>
+    <loc>http://localhost:1313/categories/log/</loc>
     <lastmod>2023-02-15T11:30:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.scnr.it/blog/reboot-remastered/</loc>
+    <loc>http://localhost:1313/blog/reboot-remastered/</loc>
     <lastmod>2023-02-15T11:30:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.scnr.it/blog/hello-world/</loc>
+    <loc>http://localhost:1313/blog/hello-world/</loc>
     <lastmod>2023-02-14T10:30:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.scnr.it/archive/</loc>
+    <loc>http://localhost:1313/archive/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.scnr.it/search/</loc>
+    <loc>http://localhost:1313/showroom/keycaps/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/search/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
